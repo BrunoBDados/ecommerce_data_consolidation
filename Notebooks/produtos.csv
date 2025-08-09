@@ -1,0 +1,1001 @@
+id_produto,nome_produto,categoria,preco
+1,Produto 1,Beleza,892.63
+2,Produto 2,Brinquedos,334.67
+3,Produto 3,Eletrônicos,449.7
+4,Produto 4,Artigos para Casa,276.36
+5,Produto 5,Roupas,52.06
+6,Produto 6,Esportes,272.7
+7,Produto 7,Alimentos,70.13
+8,Produto 8,Roupas,627.1
+9,Produto 9,Alimentos,588.96
+10,Produto 10,Artigos para Casa,165.73
+11,Produto 11,Alimentos,127.66
+12,Produto 12,Artigos para Casa,421.14
+13,Produto 13,Brinquedos,256.73
+14,Produto 14,Esportes,5.23
+15,Produto 15,Roupas,213.12
+16,Produto 16,Livros,676.54
+17,Produto 17,Brinquedos,775.19
+18,Produto 18,Eletrônicos,145.28
+19,Produto 19,Artigos para Casa,595.81
+20,Produto 20,Alimentos,708.5
+21,Produto 21,Roupas,513.34
+22,Produto 22,Alimentos,406.83
+23,Produto 23,Artigos para Casa,742.23
+24,Produto 24,Eletrônicos,748.47
+25,Produto 25,Esportes,183.42
+26,Produto 26,Eletrônicos,268.11
+27,Produto 27,Roupas,575.1
+28,Produto 28,Brinquedos,275.98
+29,Produto 29,Livros,526.47
+30,Produto 30,Alimentos,365.9
+31,Produto 31,Eletrônicos,634.92
+32,Produto 32,Artigos para Casa,106.54
+33,Produto 33,Artigos para Casa,491.39
+34,Produto 34,Eletrônicos,757.62
+35,Produto 35,Eletrônicos,51.25
+36,Produto 36,Beleza,551.89
+37,Produto 37,Livros,986.39
+38,Produto 38,Livros,852.35
+39,Produto 39,Livros,769.27
+40,Produto 40,Alimentos,605.07
+41,Produto 41,Roupas,190.37
+42,Produto 42,Alimentos,753.67
+43,Produto 43,Beleza,913.76
+44,Produto 44,Livros,70.55
+45,Produto 45,Beleza,245.61
+46,Produto 46,Alimentos,307.88
+47,Produto 47,Beleza,379.41
+48,Produto 48,Beleza,392.19
+49,Produto 49,Beleza,804.32
+50,Produto 50,Livros,445.66
+51,Produto 51,Roupas,728.25
+52,Produto 52,Alimentos,932.53
+53,Produto 53,Roupas,475.49
+54,Produto 54,Alimentos,74.31
+55,Produto 55,Artigos para Casa,864.55
+56,Produto 56,Esportes,323.74
+57,Produto 57,Esportes,318.67
+58,Produto 58,Brinquedos,972.69
+59,Produto 59,Livros,761.26
+60,Produto 60,Roupas,18.52
+61,Produto 61,Brinquedos,270.54
+62,Produto 62,Artigos para Casa,31.49
+63,Produto 63,Roupas,777.21
+64,Produto 64,Brinquedos,976.74
+65,Produto 65,Livros,35.45
+66,Produto 66,Livros,952.14
+67,Produto 67,Roupas,217.86
+68,Produto 68,Roupas,394.01
+69,Produto 69,Roupas,185.48
+70,Produto 70,Esportes,832.28
+71,Produto 71,Alimentos,425.26
+72,Produto 72,Brinquedos,805.53
+73,Produto 73,Roupas,218.49
+74,Produto 74,Livros,954.88
+75,Produto 75,Livros,430.96
+76,Produto 76,Artigos para Casa,807.97
+77,Produto 77,Roupas,365.41
+78,Produto 78,Artigos para Casa,483.74
+79,Produto 79,Beleza,865.16
+80,Produto 80,Beleza,387.97
+81,Produto 81,Esportes,179.06
+82,Produto 82,Roupas,460.86
+83,Produto 83,Roupas,742.66
+84,Produto 84,Brinquedos,933.29
+85,Produto 85,Artigos para Casa,237.23
+86,Produto 86,Artigos para Casa,340.23
+87,Produto 87,Eletrônicos,786.5
+88,Produto 88,Livros,20.68
+89,Produto 89,Beleza,894.48
+90,Produto 90,Beleza,180.71
+91,Produto 91,Brinquedos,985.63
+92,Produto 92,Artigos para Casa,907.76
+93,Produto 93,Livros,592.38
+94,Produto 94,Beleza,909.29
+95,Produto 95,Artigos para Casa,669.52
+96,Produto 96,Esportes,982.93
+97,Produto 97,Beleza,363.66
+98,Produto 98,Artigos para Casa,768.93
+99,Produto 99,Alimentos,362.78
+100,Produto 100,Brinquedos,677.92
+101,Produto 101,Brinquedos,623.36
+102,Produto 102,Brinquedos,765.79
+103,Produto 103,Esportes,669.85
+104,Produto 104,Eletrônicos,593.74
+105,Produto 105,Alimentos,480.91
+106,Produto 106,Beleza,945.48
+107,Produto 107,Livros,989.47
+108,Produto 108,Roupas,482.52
+109,Produto 109,Eletrônicos,676.66
+110,Produto 110,Alimentos,448.52
+111,Produto 111,Eletrônicos,579.72
+112,Produto 112,Eletrônicos,539.6
+113,Produto 113,Eletrônicos,364.24
+114,Produto 114,Brinquedos,328.18
+115,Produto 115,Roupas,748.81
+116,Produto 116,Alimentos,712.87
+117,Produto 117,Alimentos,103.67
+118,Produto 118,Eletrônicos,215.8
+119,Produto 119,Livros,237.7
+120,Produto 120,Artigos para Casa,942.46
+121,Produto 121,Alimentos,864.13
+122,Produto 122,Livros,434.91
+123,Produto 123,Beleza,114.06
+124,Produto 124,Alimentos,176.94
+125,Produto 125,Brinquedos,23.54
+126,Produto 126,Esportes,666.27
+127,Produto 127,Artigos para Casa,105.48
+128,Produto 128,Roupas,936.72
+129,Produto 129,Alimentos,121.32
+130,Produto 130,Eletrônicos,990.86
+131,Produto 131,Beleza,806.64
+132,Produto 132,Roupas,332.75
+133,Produto 133,Eletrônicos,589.28
+134,Produto 134,Beleza,697.4
+135,Produto 135,Beleza,741.54
+136,Produto 136,Eletrônicos,264.75
+137,Produto 137,Roupas,175.48
+138,Produto 138,Eletrônicos,614.11
+139,Produto 139,Livros,724.23
+140,Produto 140,Brinquedos,249.34
+141,Produto 141,Livros,627.14
+142,Produto 142,Esportes,806.98
+143,Produto 143,Alimentos,84.71
+144,Produto 144,Roupas,461.2
+145,Produto 145,Brinquedos,294.19
+146,Produto 146,Artigos para Casa,303.79
+147,Produto 147,Artigos para Casa,214.81
+148,Produto 148,Eletrônicos,352.7
+149,Produto 149,Brinquedos,298.92
+150,Produto 150,Artigos para Casa,784.35
+151,Produto 151,Brinquedos,781.2
+152,Produto 152,Brinquedos,610.47
+153,Produto 153,Esportes,219.56
+154,Produto 154,Esportes,872.78
+155,Produto 155,Eletrônicos,364.4
+156,Produto 156,Artigos para Casa,223.77
+157,Produto 157,Brinquedos,636.33
+158,Produto 158,Esportes,999.93
+159,Produto 159,Alimentos,768.65
+160,Produto 160,Esportes,911.8
+161,Produto 161,Brinquedos,706.22
+162,Produto 162,Alimentos,899.25
+163,Produto 163,Beleza,297.64
+164,Produto 164,Esportes,829.28
+165,Produto 165,Alimentos,852.21
+166,Produto 166,Brinquedos,872.34
+167,Produto 167,Livros,562.22
+168,Produto 168,Esportes,371.15
+169,Produto 169,Livros,480.31
+170,Produto 170,Beleza,675.34
+171,Produto 171,Beleza,118.18
+172,Produto 172,Livros,213.98
+173,Produto 173,Eletrônicos,693.32
+174,Produto 174,Artigos para Casa,128.09
+175,Produto 175,Alimentos,554.78
+176,Produto 176,Artigos para Casa,622.29
+177,Produto 177,Beleza,238.31
+178,Produto 178,Brinquedos,381.53
+179,Produto 179,Alimentos,867.92
+180,Produto 180,Artigos para Casa,575.34
+181,Produto 181,Alimentos,766.97
+182,Produto 182,Roupas,468.94
+183,Produto 183,Roupas,863.66
+184,Produto 184,Artigos para Casa,701.27
+185,Produto 185,Artigos para Casa,984.24
+186,Produto 186,Beleza,37.08
+187,Produto 187,Artigos para Casa,328.69
+188,Produto 188,Eletrônicos,139.2
+189,Produto 189,Livros,117.61
+190,Produto 190,Eletrônicos,686.14
+191,Produto 191,Esportes,157.31
+192,Produto 192,Beleza,227.19
+193,Produto 193,Eletrônicos,401.44
+194,Produto 194,Beleza,213.6
+195,Produto 195,Roupas,301.41
+196,Produto 196,Roupas,675.75
+197,Produto 197,Alimentos,528.29
+198,Produto 198,Brinquedos,136.54
+199,Produto 199,Esportes,255.01
+200,Produto 200,Livros,301.56
+201,Produto 201,Artigos para Casa,716.14
+202,Produto 202,Roupas,750.27
+203,Produto 203,Eletrônicos,314.95
+204,Produto 204,Eletrônicos,30.97
+205,Produto 205,Roupas,811.89
+206,Produto 206,Alimentos,976.91
+207,Produto 207,Artigos para Casa,570.63
+208,Produto 208,Brinquedos,921.36
+209,Produto 209,Eletrônicos,936.79
+210,Produto 210,Artigos para Casa,297.29
+211,Produto 211,Esportes,362.46
+212,Produto 212,Brinquedos,114.72
+213,Produto 213,Artigos para Casa,654.28
+214,Produto 214,Esportes,887.96
+215,Produto 215,Alimentos,470.96
+216,Produto 216,Alimentos,249.91
+217,Produto 217,Eletrônicos,174.63
+218,Produto 218,Roupas,211.03
+219,Produto 219,Eletrônicos,794.2
+220,Produto 220,Artigos para Casa,529.49
+221,Produto 221,Alimentos,878.87
+222,Produto 222,Esportes,556.34
+223,Produto 223,Eletrônicos,125.07
+224,Produto 224,Eletrônicos,504.43
+225,Produto 225,Eletrônicos,102.19
+226,Produto 226,Artigos para Casa,684.5
+227,Produto 227,Eletrônicos,324.34
+228,Produto 228,Artigos para Casa,106.83
+229,Produto 229,Livros,894.98
+230,Produto 230,Eletrônicos,690.42
+231,Produto 231,Alimentos,277.2
+232,Produto 232,Eletrônicos,922.42
+233,Produto 233,Alimentos,241.7
+234,Produto 234,Artigos para Casa,622.55
+235,Produto 235,Livros,688.29
+236,Produto 236,Livros,889.75
+237,Produto 237,Livros,414.0
+238,Produto 238,Esportes,408.57
+239,Produto 239,Eletrônicos,150.44
+240,Produto 240,Beleza,625.03
+241,Produto 241,Eletrônicos,414.34
+242,Produto 242,Livros,505.62
+243,Produto 243,Artigos para Casa,407.66
+244,Produto 244,Alimentos,62.95
+245,Produto 245,Alimentos,185.9
+246,Produto 246,Livros,547.53
+247,Produto 247,Brinquedos,910.96
+248,Produto 248,Esportes,43.07
+249,Produto 249,Eletrônicos,341.1
+250,Produto 250,Brinquedos,692.9
+251,Produto 251,Alimentos,413.17
+252,Produto 252,Artigos para Casa,242.88
+253,Produto 253,Livros,101.74
+254,Produto 254,Roupas,474.95
+255,Produto 255,Alimentos,202.18
+256,Produto 256,Livros,28.14
+257,Produto 257,Beleza,504.36
+258,Produto 258,Esportes,45.24
+259,Produto 259,Esportes,492.83
+260,Produto 260,Esportes,419.57
+261,Produto 261,Alimentos,554.34
+262,Produto 262,Alimentos,916.48
+263,Produto 263,Livros,821.73
+264,Produto 264,Livros,118.33
+265,Produto 265,Beleza,317.99
+266,Produto 266,Alimentos,201.08
+267,Produto 267,Beleza,287.19
+268,Produto 268,Esportes,713.88
+269,Produto 269,Artigos para Casa,764.82
+270,Produto 270,Brinquedos,577.02
+271,Produto 271,Beleza,130.38
+272,Produto 272,Artigos para Casa,878.74
+273,Produto 273,Beleza,462.27
+274,Produto 274,Roupas,944.41
+275,Produto 275,Livros,921.08
+276,Produto 276,Eletrônicos,132.85
+277,Produto 277,Roupas,400.34
+278,Produto 278,Alimentos,470.48
+279,Produto 279,Eletrônicos,768.84
+280,Produto 280,Artigos para Casa,812.72
+281,Produto 281,Artigos para Casa,768.49
+282,Produto 282,Beleza,574.49
+283,Produto 283,Eletrônicos,252.69
+284,Produto 284,Alimentos,192.19
+285,Produto 285,Eletrônicos,85.36
+286,Produto 286,Brinquedos,521.57
+287,Produto 287,Eletrônicos,635.19
+288,Produto 288,Brinquedos,188.53
+289,Produto 289,Livros,479.51
+290,Produto 290,Artigos para Casa,580.25
+291,Produto 291,Brinquedos,597.45
+292,Produto 292,Esportes,173.83
+293,Produto 293,Artigos para Casa,28.19
+294,Produto 294,Artigos para Casa,868.16
+295,Produto 295,Artigos para Casa,236.93
+296,Produto 296,Livros,105.1
+297,Produto 297,Livros,951.33
+298,Produto 298,Alimentos,279.1
+299,Produto 299,Alimentos,617.58
+300,Produto 300,Alimentos,83.85
+301,Produto 301,Roupas,405.94
+302,Produto 302,Alimentos,133.32
+303,Produto 303,Eletrônicos,457.69
+304,Produto 304,Artigos para Casa,607.92
+305,Produto 305,Artigos para Casa,660.56
+306,Produto 306,Beleza,669.75
+307,Produto 307,Roupas,497.26
+308,Produto 308,Eletrônicos,532.91
+309,Produto 309,Roupas,967.47
+310,Produto 310,Alimentos,525.38
+311,Produto 311,Artigos para Casa,23.1
+312,Produto 312,Beleza,764.07
+313,Produto 313,Esportes,154.63
+314,Produto 314,Livros,300.47
+315,Produto 315,Artigos para Casa,248.16
+316,Produto 316,Esportes,719.01
+317,Produto 317,Livros,711.45
+318,Produto 318,Beleza,710.3
+319,Produto 319,Livros,34.66
+320,Produto 320,Esportes,800.65
+321,Produto 321,Esportes,415.51
+322,Produto 322,Brinquedos,238.9
+323,Produto 323,Artigos para Casa,949.05
+324,Produto 324,Roupas,657.41
+325,Produto 325,Roupas,579.95
+326,Produto 326,Brinquedos,518.22
+327,Produto 327,Alimentos,555.75
+328,Produto 328,Artigos para Casa,909.8
+329,Produto 329,Livros,356.48
+330,Produto 330,Brinquedos,167.21
+331,Produto 331,Alimentos,808.79
+332,Produto 332,Beleza,176.47
+333,Produto 333,Esportes,642.37
+334,Produto 334,Brinquedos,654.7
+335,Produto 335,Brinquedos,853.2
+336,Produto 336,Roupas,45.35
+337,Produto 337,Artigos para Casa,281.71
+338,Produto 338,Artigos para Casa,518.89
+339,Produto 339,Eletrônicos,164.14
+340,Produto 340,Livros,608.83
+341,Produto 341,Eletrônicos,174.88
+342,Produto 342,Esportes,351.96
+343,Produto 343,Beleza,483.62
+344,Produto 344,Artigos para Casa,119.51
+345,Produto 345,Alimentos,141.01
+346,Produto 346,Esportes,495.81
+347,Produto 347,Beleza,633.84
+348,Produto 348,Eletrônicos,615.29
+349,Produto 349,Artigos para Casa,339.15
+350,Produto 350,Beleza,371.08
+351,Produto 351,Beleza,828.06
+352,Produto 352,Esportes,69.17
+353,Produto 353,Eletrônicos,982.78
+354,Produto 354,Livros,347.62
+355,Produto 355,Eletrônicos,578.93
+356,Produto 356,Esportes,770.8
+357,Produto 357,Eletrônicos,895.23
+358,Produto 358,Beleza,628.53
+359,Produto 359,Esportes,115.15
+360,Produto 360,Roupas,199.21
+361,Produto 361,Brinquedos,998.92
+362,Produto 362,Eletrônicos,437.28
+363,Produto 363,Roupas,522.96
+364,Produto 364,Alimentos,69.8
+365,Produto 365,Eletrônicos,717.96
+366,Produto 366,Livros,781.7
+367,Produto 367,Esportes,117.61
+368,Produto 368,Roupas,236.95
+369,Produto 369,Livros,535.44
+370,Produto 370,Esportes,802.96
+371,Produto 371,Beleza,985.96
+372,Produto 372,Beleza,338.94
+373,Produto 373,Artigos para Casa,639.81
+374,Produto 374,Roupas,729.85
+375,Produto 375,Livros,622.01
+376,Produto 376,Brinquedos,449.46
+377,Produto 377,Livros,115.43
+378,Produto 378,Artigos para Casa,141.87
+379,Produto 379,Beleza,415.66
+380,Produto 380,Beleza,747.56
+381,Produto 381,Esportes,558.17
+382,Produto 382,Alimentos,846.33
+383,Produto 383,Eletrônicos,410.74
+384,Produto 384,Brinquedos,809.41
+385,Produto 385,Roupas,252.94
+386,Produto 386,Eletrônicos,754.9
+387,Produto 387,Esportes,535.61
+388,Produto 388,Artigos para Casa,394.73
+389,Produto 389,Eletrônicos,951.12
+390,Produto 390,Beleza,670.79
+391,Produto 391,Esportes,392.78
+392,Produto 392,Brinquedos,800.31
+393,Produto 393,Esportes,424.47
+394,Produto 394,Eletrônicos,354.38
+395,Produto 395,Roupas,616.77
+396,Produto 396,Roupas,327.18
+397,Produto 397,Beleza,745.79
+398,Produto 398,Esportes,74.89
+399,Produto 399,Livros,725.94
+400,Produto 400,Livros,923.35
+401,Produto 401,Livros,293.22
+402,Produto 402,Alimentos,265.58
+403,Produto 403,Beleza,635.26
+404,Produto 404,Esportes,454.52
+405,Produto 405,Beleza,294.77
+406,Produto 406,Brinquedos,447.23
+407,Produto 407,Beleza,785.92
+408,Produto 408,Livros,540.1
+409,Produto 409,Eletrônicos,835.4
+410,Produto 410,Brinquedos,326.72
+411,Produto 411,Brinquedos,547.37
+412,Produto 412,Eletrônicos,997.08
+413,Produto 413,Eletrônicos,350.14
+414,Produto 414,Esportes,538.92
+415,Produto 415,Esportes,758.46
+416,Produto 416,Roupas,807.85
+417,Produto 417,Livros,778.43
+418,Produto 418,Alimentos,387.74
+419,Produto 419,Esportes,505.24
+420,Produto 420,Brinquedos,66.86
+421,Produto 421,Eletrônicos,128.69
+422,Produto 422,Artigos para Casa,852.12
+423,Produto 423,Alimentos,836.45
+424,Produto 424,Livros,185.79
+425,Produto 425,Esportes,360.2
+426,Produto 426,Esportes,430.19
+427,Produto 427,Eletrônicos,550.14
+428,Produto 428,Eletrônicos,195.22
+429,Produto 429,Roupas,348.86
+430,Produto 430,Livros,283.67
+431,Produto 431,Brinquedos,779.78
+432,Produto 432,Alimentos,670.92
+433,Produto 433,Livros,641.31
+434,Produto 434,Esportes,751.99
+435,Produto 435,Brinquedos,27.51
+436,Produto 436,Roupas,939.35
+437,Produto 437,Alimentos,17.38
+438,Produto 438,Esportes,706.84
+439,Produto 439,Alimentos,912.63
+440,Produto 440,Esportes,532.3
+441,Produto 441,Roupas,389.9
+442,Produto 442,Brinquedos,43.5
+443,Produto 443,Livros,47.2
+444,Produto 444,Artigos para Casa,599.41
+445,Produto 445,Beleza,323.98
+446,Produto 446,Brinquedos,875.58
+447,Produto 447,Livros,329.47
+448,Produto 448,Artigos para Casa,404.87
+449,Produto 449,Beleza,106.1
+450,Produto 450,Esportes,546.76
+451,Produto 451,Eletrônicos,70.56
+452,Produto 452,Beleza,952.38
+453,Produto 453,Roupas,440.94
+454,Produto 454,Beleza,375.78
+455,Produto 455,Alimentos,562.42
+456,Produto 456,Beleza,247.28
+457,Produto 457,Esportes,930.82
+458,Produto 458,Livros,321.64
+459,Produto 459,Brinquedos,895.42
+460,Produto 460,Alimentos,917.4
+461,Produto 461,Eletrônicos,468.42
+462,Produto 462,Livros,372.0
+463,Produto 463,Alimentos,999.1
+464,Produto 464,Roupas,951.79
+465,Produto 465,Eletrônicos,203.76
+466,Produto 466,Artigos para Casa,329.37
+467,Produto 467,Roupas,716.15
+468,Produto 468,Eletrônicos,700.71
+469,Produto 469,Brinquedos,898.54
+470,Produto 470,Esportes,938.14
+471,Produto 471,Eletrônicos,840.49
+472,Produto 472,Artigos para Casa,85.37
+473,Produto 473,Eletrônicos,341.48
+474,Produto 474,Livros,377.27
+475,Produto 475,Brinquedos,213.71
+476,Produto 476,Livros,792.06
+477,Produto 477,Esportes,150.6
+478,Produto 478,Alimentos,324.73
+479,Produto 479,Esportes,307.23
+480,Produto 480,Eletrônicos,147.63
+481,Produto 481,Eletrônicos,106.41
+482,Produto 482,Artigos para Casa,985.35
+483,Produto 483,Eletrônicos,523.77
+484,Produto 484,Brinquedos,115.11
+485,Produto 485,Artigos para Casa,130.51
+486,Produto 486,Alimentos,670.49
+487,Produto 487,Esportes,651.78
+488,Produto 488,Roupas,726.39
+489,Produto 489,Artigos para Casa,991.08
+490,Produto 490,Roupas,451.47
+491,Produto 491,Brinquedos,953.36
+492,Produto 492,Beleza,806.23
+493,Produto 493,Brinquedos,894.13
+494,Produto 494,Roupas,106.61
+495,Produto 495,Roupas,708.85
+496,Produto 496,Artigos para Casa,326.25
+497,Produto 497,Brinquedos,398.55
+498,Produto 498,Beleza,474.3
+499,Produto 499,Alimentos,424.86
+500,Produto 500,Eletrônicos,60.07
+501,Produto 501,Eletrônicos,456.29
+502,Produto 502,Artigos para Casa,169.92
+503,Produto 503,Artigos para Casa,268.31
+504,Produto 504,Livros,868.39
+505,Produto 505,Livros,183.14
+506,Produto 506,Alimentos,879.93
+507,Produto 507,Esportes,676.31
+508,Produto 508,Eletrônicos,911.05
+509,Produto 509,Livros,713.17
+510,Produto 510,Esportes,565.08
+511,Produto 511,Alimentos,913.19
+512,Produto 512,Beleza,762.99
+513,Produto 513,Roupas,486.96
+514,Produto 514,Beleza,418.97
+515,Produto 515,Livros,811.14
+516,Produto 516,Beleza,459.29
+517,Produto 517,Alimentos,911.88
+518,Produto 518,Livros,928.92
+519,Produto 519,Esportes,777.7
+520,Produto 520,Roupas,372.05
+521,Produto 521,Roupas,515.88
+522,Produto 522,Roupas,149.64
+523,Produto 523,Roupas,306.92
+524,Produto 524,Livros,259.96
+525,Produto 525,Brinquedos,523.48
+526,Produto 526,Artigos para Casa,573.07
+527,Produto 527,Esportes,309.05
+528,Produto 528,Esportes,318.43
+529,Produto 529,Alimentos,39.79
+530,Produto 530,Roupas,195.36
+531,Produto 531,Artigos para Casa,472.15
+532,Produto 532,Alimentos,224.4
+533,Produto 533,Brinquedos,487.35
+534,Produto 534,Esportes,789.05
+535,Produto 535,Livros,324.31
+536,Produto 536,Beleza,321.03
+537,Produto 537,Livros,216.13
+538,Produto 538,Beleza,801.78
+539,Produto 539,Livros,467.23
+540,Produto 540,Esportes,408.37
+541,Produto 541,Artigos para Casa,941.2
+542,Produto 542,Brinquedos,763.69
+543,Produto 543,Livros,8.53
+544,Produto 544,Alimentos,956.86
+545,Produto 545,Roupas,300.21
+546,Produto 546,Eletrônicos,499.1
+547,Produto 547,Eletrônicos,232.63
+548,Produto 548,Brinquedos,800.5
+549,Produto 549,Beleza,496.2
+550,Produto 550,Roupas,491.4
+551,Produto 551,Alimentos,427.58
+552,Produto 552,Esportes,305.8
+553,Produto 553,Esportes,601.28
+554,Produto 554,Artigos para Casa,476.36
+555,Produto 555,Esportes,544.28
+556,Produto 556,Esportes,696.87
+557,Produto 557,Brinquedos,766.94
+558,Produto 558,Roupas,403.92
+559,Produto 559,Eletrônicos,564.56
+560,Produto 560,Esportes,574.23
+561,Produto 561,Brinquedos,702.38
+562,Produto 562,Brinquedos,739.5
+563,Produto 563,Alimentos,238.19
+564,Produto 564,Beleza,930.56
+565,Produto 565,Artigos para Casa,634.21
+566,Produto 566,Brinquedos,131.39
+567,Produto 567,Artigos para Casa,172.27
+568,Produto 568,Beleza,90.2
+569,Produto 569,Roupas,279.09
+570,Produto 570,Brinquedos,931.83
+571,Produto 571,Beleza,74.88
+572,Produto 572,Livros,467.94
+573,Produto 573,Roupas,47.35
+574,Produto 574,Eletrônicos,126.44
+575,Produto 575,Esportes,180.52
+576,Produto 576,Eletrônicos,653.71
+577,Produto 577,Eletrônicos,93.34
+578,Produto 578,Artigos para Casa,839.08
+579,Produto 579,Livros,546.49
+580,Produto 580,Alimentos,290.95
+581,Produto 581,Alimentos,510.34
+582,Produto 582,Alimentos,580.69
+583,Produto 583,Roupas,419.64
+584,Produto 584,Esportes,50.29
+585,Produto 585,Livros,22.91
+586,Produto 586,Livros,611.4
+587,Produto 587,Esportes,738.71
+588,Produto 588,Roupas,692.4
+589,Produto 589,Roupas,535.77
+590,Produto 590,Esportes,298.43
+591,Produto 591,Alimentos,952.15
+592,Produto 592,Brinquedos,848.57
+593,Produto 593,Eletrônicos,876.03
+594,Produto 594,Brinquedos,801.46
+595,Produto 595,Alimentos,291.75
+596,Produto 596,Artigos para Casa,743.95
+597,Produto 597,Brinquedos,609.32
+598,Produto 598,Eletrônicos,168.43
+599,Produto 599,Beleza,176.46
+600,Produto 600,Artigos para Casa,918.34
+601,Produto 601,Alimentos,660.86
+602,Produto 602,Brinquedos,740.19
+603,Produto 603,Beleza,101.05
+604,Produto 604,Brinquedos,604.19
+605,Produto 605,Artigos para Casa,783.01
+606,Produto 606,Esportes,236.75
+607,Produto 607,Eletrônicos,489.14
+608,Produto 608,Alimentos,804.73
+609,Produto 609,Eletrônicos,431.27
+610,Produto 610,Eletrônicos,231.44
+611,Produto 611,Alimentos,924.81
+612,Produto 612,Brinquedos,427.27
+613,Produto 613,Brinquedos,713.84
+614,Produto 614,Esportes,678.35
+615,Produto 615,Esportes,336.88
+616,Produto 616,Livros,358.62
+617,Produto 617,Roupas,114.2
+618,Produto 618,Alimentos,985.87
+619,Produto 619,Roupas,690.24
+620,Produto 620,Brinquedos,363.85
+621,Produto 621,Esportes,933.28
+622,Produto 622,Esportes,16.54
+623,Produto 623,Brinquedos,527.09
+624,Produto 624,Beleza,217.17
+625,Produto 625,Artigos para Casa,870.86
+626,Produto 626,Artigos para Casa,542.98
+627,Produto 627,Eletrônicos,546.29
+628,Produto 628,Eletrônicos,470.24
+629,Produto 629,Esportes,895.22
+630,Produto 630,Alimentos,720.5
+631,Produto 631,Brinquedos,556.56
+632,Produto 632,Livros,226.76
+633,Produto 633,Artigos para Casa,938.56
+634,Produto 634,Alimentos,899.31
+635,Produto 635,Brinquedos,820.28
+636,Produto 636,Eletrônicos,772.38
+637,Produto 637,Alimentos,990.56
+638,Produto 638,Artigos para Casa,661.71
+639,Produto 639,Livros,930.61
+640,Produto 640,Livros,596.37
+641,Produto 641,Artigos para Casa,421.1
+642,Produto 642,Artigos para Casa,734.85
+643,Produto 643,Brinquedos,96.25
+644,Produto 644,Roupas,374.24
+645,Produto 645,Artigos para Casa,611.68
+646,Produto 646,Alimentos,213.99
+647,Produto 647,Livros,320.37
+648,Produto 648,Beleza,186.22
+649,Produto 649,Beleza,23.56
+650,Produto 650,Eletrônicos,678.14
+651,Produto 651,Beleza,708.45
+652,Produto 652,Esportes,903.62
+653,Produto 653,Beleza,837.03
+654,Produto 654,Alimentos,180.66
+655,Produto 655,Eletrônicos,880.97
+656,Produto 656,Beleza,749.98
+657,Produto 657,Esportes,715.58
+658,Produto 658,Artigos para Casa,162.5
+659,Produto 659,Beleza,183.14
+660,Produto 660,Artigos para Casa,5.5
+661,Produto 661,Alimentos,453.89
+662,Produto 662,Brinquedos,550.93
+663,Produto 663,Brinquedos,638.13
+664,Produto 664,Artigos para Casa,447.0
+665,Produto 665,Alimentos,910.66
+666,Produto 666,Brinquedos,34.71
+667,Produto 667,Artigos para Casa,823.3
+668,Produto 668,Eletrônicos,885.2
+669,Produto 669,Roupas,705.42
+670,Produto 670,Eletrônicos,297.1
+671,Produto 671,Esportes,802.71
+672,Produto 672,Beleza,14.12
+673,Produto 673,Esportes,977.78
+674,Produto 674,Beleza,835.8
+675,Produto 675,Roupas,317.84
+676,Produto 676,Alimentos,823.82
+677,Produto 677,Roupas,522.68
+678,Produto 678,Eletrônicos,267.79
+679,Produto 679,Eletrônicos,699.56
+680,Produto 680,Roupas,323.81
+681,Produto 681,Beleza,730.83
+682,Produto 682,Livros,399.31
+683,Produto 683,Esportes,276.82
+684,Produto 684,Livros,568.12
+685,Produto 685,Alimentos,88.95
+686,Produto 686,Eletrônicos,553.66
+687,Produto 687,Artigos para Casa,997.76
+688,Produto 688,Beleza,167.35
+689,Produto 689,Esportes,983.9
+690,Produto 690,Livros,167.61
+691,Produto 691,Livros,780.13
+692,Produto 692,Roupas,386.86
+693,Produto 693,Eletrônicos,744.48
+694,Produto 694,Roupas,428.01
+695,Produto 695,Roupas,871.34
+696,Produto 696,Alimentos,787.44
+697,Produto 697,Eletrônicos,377.01
+698,Produto 698,Livros,959.35
+699,Produto 699,Livros,821.93
+700,Produto 700,Brinquedos,335.63
+701,Produto 701,Beleza,329.62
+702,Produto 702,Brinquedos,834.66
+703,Produto 703,Brinquedos,162.47
+704,Produto 704,Roupas,644.48
+705,Produto 705,Brinquedos,930.55
+706,Produto 706,Artigos para Casa,915.25
+707,Produto 707,Brinquedos,976.55
+708,Produto 708,Artigos para Casa,199.18
+709,Produto 709,Esportes,221.77
+710,Produto 710,Roupas,776.36
+711,Produto 711,Eletrônicos,964.57
+712,Produto 712,Livros,672.74
+713,Produto 713,Brinquedos,48.81
+714,Produto 714,Livros,401.27
+715,Produto 715,Esportes,31.18
+716,Produto 716,Artigos para Casa,528.36
+717,Produto 717,Brinquedos,101.6
+718,Produto 718,Brinquedos,809.22
+719,Produto 719,Livros,468.24
+720,Produto 720,Alimentos,714.35
+721,Produto 721,Brinquedos,871.89
+722,Produto 722,Esportes,222.62
+723,Produto 723,Roupas,117.89
+724,Produto 724,Brinquedos,555.38
+725,Produto 725,Livros,141.13
+726,Produto 726,Artigos para Casa,578.3
+727,Produto 727,Beleza,494.88
+728,Produto 728,Livros,271.74
+729,Produto 729,Alimentos,829.67
+730,Produto 730,Esportes,541.72
+731,Produto 731,Brinquedos,195.1
+732,Produto 732,Alimentos,46.43
+733,Produto 733,Livros,51.15
+734,Produto 734,Esportes,306.17
+735,Produto 735,Roupas,81.78
+736,Produto 736,Esportes,245.6
+737,Produto 737,Livros,176.16
+738,Produto 738,Alimentos,391.93
+739,Produto 739,Roupas,117.9
+740,Produto 740,Artigos para Casa,83.08
+741,Produto 741,Alimentos,658.79
+742,Produto 742,Brinquedos,720.55
+743,Produto 743,Brinquedos,899.82
+744,Produto 744,Brinquedos,720.45
+745,Produto 745,Roupas,241.16
+746,Produto 746,Esportes,650.75
+747,Produto 747,Alimentos,949.39
+748,Produto 748,Beleza,592.31
+749,Produto 749,Beleza,676.82
+750,Produto 750,Esportes,146.23
+751,Produto 751,Roupas,803.03
+752,Produto 752,Alimentos,59.88
+753,Produto 753,Esportes,410.31
+754,Produto 754,Esportes,664.08
+755,Produto 755,Livros,323.8
+756,Produto 756,Alimentos,672.49
+757,Produto 757,Brinquedos,341.89
+758,Produto 758,Livros,438.98
+759,Produto 759,Beleza,13.86
+760,Produto 760,Roupas,25.31
+761,Produto 761,Roupas,196.47
+762,Produto 762,Eletrônicos,520.31
+763,Produto 763,Esportes,956.1
+764,Produto 764,Alimentos,995.46
+765,Produto 765,Livros,222.16
+766,Produto 766,Artigos para Casa,737.9
+767,Produto 767,Alimentos,981.22
+768,Produto 768,Brinquedos,544.99
+769,Produto 769,Brinquedos,265.7
+770,Produto 770,Beleza,218.73
+771,Produto 771,Beleza,723.45
+772,Produto 772,Beleza,81.42
+773,Produto 773,Esportes,911.92
+774,Produto 774,Artigos para Casa,437.81
+775,Produto 775,Esportes,835.26
+776,Produto 776,Artigos para Casa,298.41
+777,Produto 777,Alimentos,928.62
+778,Produto 778,Eletrônicos,579.98
+779,Produto 779,Roupas,618.02
+780,Produto 780,Livros,693.08
+781,Produto 781,Esportes,50.62
+782,Produto 782,Alimentos,561.87
+783,Produto 783,Alimentos,30.56
+784,Produto 784,Roupas,883.81
+785,Produto 785,Roupas,375.29
+786,Produto 786,Eletrônicos,215.01
+787,Produto 787,Livros,687.22
+788,Produto 788,Esportes,541.71
+789,Produto 789,Artigos para Casa,194.23
+790,Produto 790,Brinquedos,726.27
+791,Produto 791,Brinquedos,405.13
+792,Produto 792,Roupas,759.75
+793,Produto 793,Brinquedos,180.9
+794,Produto 794,Beleza,481.77
+795,Produto 795,Artigos para Casa,913.74
+796,Produto 796,Alimentos,77.31
+797,Produto 797,Artigos para Casa,387.48
+798,Produto 798,Brinquedos,314.55
+799,Produto 799,Alimentos,282.73
+800,Produto 800,Artigos para Casa,632.94
+801,Produto 801,Roupas,454.84
+802,Produto 802,Livros,337.7
+803,Produto 803,Beleza,7.5
+804,Produto 804,Alimentos,463.43
+805,Produto 805,Artigos para Casa,228.91
+806,Produto 806,Beleza,652.38
+807,Produto 807,Beleza,472.59
+808,Produto 808,Roupas,781.73
+809,Produto 809,Artigos para Casa,429.74
+810,Produto 810,Livros,23.32
+811,Produto 811,Eletrônicos,699.98
+812,Produto 812,Artigos para Casa,662.36
+813,Produto 813,Esportes,501.36
+814,Produto 814,Roupas,17.25
+815,Produto 815,Esportes,792.49
+816,Produto 816,Artigos para Casa,895.21
+817,Produto 817,Beleza,474.4
+818,Produto 818,Alimentos,992.45
+819,Produto 819,Esportes,444.87
+820,Produto 820,Eletrônicos,871.32
+821,Produto 821,Livros,347.31
+822,Produto 822,Roupas,307.34
+823,Produto 823,Roupas,27.39
+824,Produto 824,Alimentos,378.95
+825,Produto 825,Roupas,922.69
+826,Produto 826,Beleza,723.33
+827,Produto 827,Roupas,841.62
+828,Produto 828,Artigos para Casa,503.69
+829,Produto 829,Esportes,913.99
+830,Produto 830,Roupas,552.35
+831,Produto 831,Livros,662.69
+832,Produto 832,Beleza,966.99
+833,Produto 833,Beleza,368.9
+834,Produto 834,Livros,109.46
+835,Produto 835,Esportes,439.87
+836,Produto 836,Artigos para Casa,293.03
+837,Produto 837,Artigos para Casa,905.94
+838,Produto 838,Alimentos,52.86
+839,Produto 839,Livros,537.33
+840,Produto 840,Beleza,130.55
+841,Produto 841,Eletrônicos,994.24
+842,Produto 842,Beleza,554.45
+843,Produto 843,Livros,659.87
+844,Produto 844,Esportes,115.47
+845,Produto 845,Beleza,73.05
+846,Produto 846,Roupas,36.42
+847,Produto 847,Brinquedos,426.58
+848,Produto 848,Brinquedos,27.85
+849,Produto 849,Brinquedos,908.95
+850,Produto 850,Brinquedos,95.82
+851,Produto 851,Beleza,755.99
+852,Produto 852,Eletrônicos,157.72
+853,Produto 853,Esportes,460.77
+854,Produto 854,Roupas,238.69
+855,Produto 855,Roupas,123.82
+856,Produto 856,Alimentos,531.48
+857,Produto 857,Eletrônicos,559.76
+858,Produto 858,Esportes,416.82
+859,Produto 859,Livros,156.67
+860,Produto 860,Artigos para Casa,944.2
+861,Produto 861,Beleza,301.16
+862,Produto 862,Livros,434.98
+863,Produto 863,Eletrônicos,763.09
+864,Produto 864,Artigos para Casa,733.9
+865,Produto 865,Livros,135.33
+866,Produto 866,Brinquedos,658.27
+867,Produto 867,Roupas,716.75
+868,Produto 868,Livros,643.0
+869,Produto 869,Eletrônicos,555.95
+870,Produto 870,Roupas,724.37
+871,Produto 871,Beleza,936.45
+872,Produto 872,Artigos para Casa,657.01
+873,Produto 873,Roupas,863.97
+874,Produto 874,Beleza,595.94
+875,Produto 875,Artigos para Casa,181.69
+876,Produto 876,Beleza,568.2
+877,Produto 877,Eletrônicos,438.05
+878,Produto 878,Eletrônicos,970.7
+879,Produto 879,Esportes,502.09
+880,Produto 880,Roupas,538.03
+881,Produto 881,Beleza,345.18
+882,Produto 882,Brinquedos,34.75
+883,Produto 883,Esportes,353.8
+884,Produto 884,Esportes,397.45
+885,Produto 885,Artigos para Casa,744.86
+886,Produto 886,Esportes,897.99
+887,Produto 887,Brinquedos,465.8
+888,Produto 888,Alimentos,277.42
+889,Produto 889,Brinquedos,897.8
+890,Produto 890,Roupas,358.12
+891,Produto 891,Eletrônicos,641.67
+892,Produto 892,Roupas,277.83
+893,Produto 893,Beleza,995.41
+894,Produto 894,Livros,150.57
+895,Produto 895,Esportes,79.41
+896,Produto 896,Roupas,140.15
+897,Produto 897,Alimentos,551.47
+898,Produto 898,Esportes,699.64
+899,Produto 899,Brinquedos,925.45
+900,Produto 900,Alimentos,314.94
+901,Produto 901,Artigos para Casa,14.97
+902,Produto 902,Eletrônicos,748.97
+903,Produto 903,Livros,510.99
+904,Produto 904,Artigos para Casa,976.86
+905,Produto 905,Livros,772.61
+906,Produto 906,Eletrônicos,537.33
+907,Produto 907,Brinquedos,110.02
+908,Produto 908,Artigos para Casa,642.16
+909,Produto 909,Roupas,885.17
+910,Produto 910,Beleza,551.16
+911,Produto 911,Brinquedos,182.55
+912,Produto 912,Esportes,352.31
+913,Produto 913,Alimentos,363.68
+914,Produto 914,Brinquedos,545.93
+915,Produto 915,Roupas,613.11
+916,Produto 916,Alimentos,239.11
+917,Produto 917,Esportes,801.71
+918,Produto 918,Beleza,613.49
+919,Produto 919,Beleza,533.52
+920,Produto 920,Livros,319.0
+921,Produto 921,Artigos para Casa,165.72
+922,Produto 922,Artigos para Casa,916.46
+923,Produto 923,Beleza,101.28
+924,Produto 924,Roupas,497.84
+925,Produto 925,Beleza,888.23
+926,Produto 926,Artigos para Casa,975.95
+927,Produto 927,Artigos para Casa,851.4
+928,Produto 928,Roupas,538.58
+929,Produto 929,Eletrônicos,201.96
+930,Produto 930,Eletrônicos,560.15
+931,Produto 931,Eletrônicos,638.13
+932,Produto 932,Beleza,764.07
+933,Produto 933,Alimentos,343.71
+934,Produto 934,Roupas,510.3
+935,Produto 935,Livros,906.62
+936,Produto 936,Artigos para Casa,347.0
+937,Produto 937,Esportes,756.05
+938,Produto 938,Eletrônicos,151.04
+939,Produto 939,Roupas,788.55
+940,Produto 940,Beleza,799.33
+941,Produto 941,Esportes,978.45
+942,Produto 942,Roupas,668.32
+943,Produto 943,Artigos para Casa,628.47
+944,Produto 944,Eletrônicos,105.61
+945,Produto 945,Esportes,369.64
+946,Produto 946,Artigos para Casa,810.73
+947,Produto 947,Beleza,786.83
+948,Produto 948,Alimentos,962.0
+949,Produto 949,Artigos para Casa,465.99
+950,Produto 950,Eletrônicos,108.03
+951,Produto 951,Roupas,796.48
+952,Produto 952,Alimentos,326.71
+953,Produto 953,Brinquedos,735.9
+954,Produto 954,Livros,106.73
+955,Produto 955,Roupas,98.48
+956,Produto 956,Alimentos,581.12
+957,Produto 957,Esportes,36.08
+958,Produto 958,Eletrônicos,778.01
+959,Produto 959,Artigos para Casa,463.92
+960,Produto 960,Brinquedos,771.29
+961,Produto 961,Roupas,441.92
+962,Produto 962,Roupas,121.62
+963,Produto 963,Alimentos,582.16
+964,Produto 964,Roupas,473.64
+965,Produto 965,Brinquedos,566.16
+966,Produto 966,Livros,464.81
+967,Produto 967,Livros,988.54
+968,Produto 968,Brinquedos,805.26
+969,Produto 969,Beleza,539.52
+970,Produto 970,Livros,770.89
+971,Produto 971,Livros,86.71
+972,Produto 972,Livros,414.1
+973,Produto 973,Beleza,520.52
+974,Produto 974,Artigos para Casa,811.67
+975,Produto 975,Artigos para Casa,390.05
+976,Produto 976,Esportes,825.54
+977,Produto 977,Brinquedos,239.22
+978,Produto 978,Beleza,145.42
+979,Produto 979,Beleza,908.56
+980,Produto 980,Artigos para Casa,920.15
+981,Produto 981,Alimentos,942.53
+982,Produto 982,Artigos para Casa,802.7
+983,Produto 983,Livros,414.8
+984,Produto 984,Roupas,17.02
+985,Produto 985,Brinquedos,688.47
+986,Produto 986,Alimentos,480.15
+987,Produto 987,Eletrônicos,996.62
+988,Produto 988,Alimentos,795.08
+989,Produto 989,Esportes,619.82
+990,Produto 990,Roupas,379.34
+991,Produto 991,Artigos para Casa,693.69
+992,Produto 992,Esportes,805.75
+993,Produto 993,Artigos para Casa,436.74
+994,Produto 994,Roupas,114.3
+995,Produto 995,Eletrônicos,102.39
+996,Produto 996,Eletrônicos,260.3
+997,Produto 997,Roupas,759.04
+998,Produto 998,Beleza,562.72
+999,Produto 999,Brinquedos,319.29
+1000,Produto 1000,Roupas,15.69

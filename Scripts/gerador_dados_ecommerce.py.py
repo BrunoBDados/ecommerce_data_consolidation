@@ -1,27 +1,17 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# Script para Geração de Dados Fictícios de E-commerce
-
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 import os
 
-# --- Configuração ---
+# Configurações
 NUM_PEDIDOS = 10000
 NUM_PRODUTOS = 1000
 NUM_CLIENTES = 5000
 DATA_INICIO = datetime(2023, 1, 1)
 DATA_FIM = datetime(2024, 12, 31)
 
-# Definir o diretório para salvar os CSVs
-# Este script assume que está sendo executado da raiz do projeto,
-# ou que o diretório 'data/raw' já existe e é acessível.
-output_dir = 'data/raw' # Caminho relativo à raiz do projeto
+# Diretório para salvar os CSVs raw, relativo à pasta Scripts
+output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'raw')
 os.makedirs(output_dir, exist_ok=True)
 
 print(f"Gerando dados e salvando em: {os.path.abspath(output_dir)}\n")
@@ -60,19 +50,11 @@ print("Gerado produtos.csv")
 
 # --- Gerar Dados de Pedidos ---
 ids_pedidos = np.arange(1, NUM_PEDIDOS + 1)
-
-# IDs de clientes aleatórios para os pedidos
 ids_clientes_pedido = np.random.choice(ids_clientes, NUM_PEDIDOS)
-
-# Datas aleatórias para os pedidos
 diferenca_tempo = DATA_FIM - DATA_INICIO
 dias_aleatorios = np.random.randint(0, diferenca_tempo.days, NUM_PEDIDOS)
 datas_pedido = [DATA_INICIO + timedelta(days=int(d)) for d in dias_aleatorios]
-
-# Valores totais aleatórios para os pedidos
 valores_totais_pedido = np.round(np.random.uniform(10.0, 5000.0, NUM_PEDIDOS), 2)
-
-# Associar um produto para simplicidade (em um cenário real, teria uma tabela de itens de pedido)
 ids_produtos_associados_pedido = np.random.choice(ids_produtos, NUM_PEDIDOS)
 
 df_pedidos = pd.DataFrame({
@@ -86,5 +68,4 @@ df_pedidos.to_csv(os.path.join(output_dir, 'pedidos.csv'), index=False)
 print("Gerado pedidos.csv")
 
 print("\nTodos os arquivos CSV foram gerados com sucesso!")
-print("Você deverá encontrar 'clientes.csv', 'produtos.csv' e 'pedidos.csv' no diretório 'data/raw' do seu projeto.")
-
+print(f"Você deverá encontrar os arquivos em: {os.path.abspath(output_dir)}")
